@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Introduction to GitHub DG
+# Introduction to GitHub DG Updated version
 
 _Get started using GitHub in less than an hour._
 
